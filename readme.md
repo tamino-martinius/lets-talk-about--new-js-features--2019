@@ -13,3 +13,7 @@
 [TypeScript Playground](https://www.typescriptlang.org/play/)
 
 [CodePen](https://codepen.io/)
+
+[2020 Edition](https://github.com/tamino-martinius/lets-talk-about--new-js-features--2020)
+
+[2018 Edition](https://github.com/tamino-martinius/lets-talk-about--new-js-features--2018)
